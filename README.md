@@ -14,7 +14,7 @@ This repository contains the code and instructions to build an E-Commerce Recomm
 - **User Feedback:** Allows users to provide feedback (ratings/likes) for better personalization.
 
 ---
-[Watch the UI walkthrough video](https://github.com/ManaswiniGupta/MSD23024_Ecom-recommender-system/blob/master/ecom-app.mp4)
+[Watch the UI walkthrough video](https://drive.google.com/file/d/1qSKUozX-4V9bNYzt5mXvkrQxwNingvZv/view?usp=sharing)
 
 
 
